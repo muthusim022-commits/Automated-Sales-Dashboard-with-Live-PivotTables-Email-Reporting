@@ -1,7 +1,8 @@
-# Automated Sales Dashboard with Live PivotTables & Email Reporting
+# ASD with Live PivotTables & Email Reporting
 
 An interactive sales dashboard built in Excel / Google Sheets, paired with a Google Apps Script
 automation that turns it into a self-distributing reporting tool.
+Automated Sales Dashboard (ASD) with Live PivotTables & Email Reporting
 
 ## Overview
 
